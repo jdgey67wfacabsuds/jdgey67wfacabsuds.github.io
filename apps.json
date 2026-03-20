@@ -1,4 +1,31 @@
 [
-  {"name":"App 1","desc":"Sample description","url":"https://jdgey67wfacabsuds.github.io/g/app1.apk"},
-  {"name":"App 2","desc":"Another app","url":"https://jdgey67wfacabsuds.github.io/g/app2.apk"}
+  {
+    "name": "Sample App 1",
+    "icon": "https://via.placeholder.com/80?text=Icon1",
+    "author": "Bedusec",
+    "description": "This is a sample app with great features.",
+    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app1.apk",
+    "previewImages": [
+      "https://via.placeholder.com/100x180?text=SS1",
+      "https://via.placeholder.com/100x180?text=SS2"
+    ],
+    "category": "Tools",
+    "version": "1.0.0",
+    "lastUpdate": "2026-03-20",
+    "downloads": 1250
+  },
+  {
+    "name": "Sample App 2",
+    "icon": "https://via.placeholder.com/80?text=Icon2",
+    "author": "Bedusec",
+    "description": "Another amazing app.",
+    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app2.apk",
+    "previewImages": [
+      "https://via.placeholder.com/100x180?text=SS3"
+    ],
+    "category": "Games",
+    "version": "2.1.0",
+    "lastUpdate": "2026-03-19",
+    "downloads": 340
+  }
 ]
