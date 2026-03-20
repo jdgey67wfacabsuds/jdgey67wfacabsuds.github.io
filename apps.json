@@ -1,31 +1,155 @@
 [
   {
-    "name": "Sample App 1",
-    "icon": "https://via.placeholder.com/80?text=Icon1",
-    "author": "Bedusec",
-    "description": "This is a sample app with great features.",
+    "name": "Flash Browser",
+    "icon": "https://via.placeholder.com/80?text=FB",
+    "author": "Bedusec Labs",
+    "description": "Lightweight, fast browser with ad-blocking and privacy features.",
     "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app1.apk",
     "previewImages": [
       "https://via.placeholder.com/100x180?text=SS1",
-      "https://via.placeholder.com/100x180?text=SS2"
-    ],
-    "category": "Tools",
-    "version": "1.0.0",
-    "lastUpdate": "2026-03-20",
-    "downloads": 1250
-  },
-  {
-    "name": "Sample App 2",
-    "icon": "https://via.placeholder.com/80?text=Icon2",
-    "author": "Bedusec",
-    "description": "Another amazing app.",
-    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app2.apk",
-    "previewImages": [
+      "https://via.placeholder.com/100x180?text=SS2",
       "https://via.placeholder.com/100x180?text=SS3"
     ],
+    "category": "Tools",
+    "version": "3.2.1",
+    "lastUpdate": "2026-03-15",
+    "downloads": 2150
+  },
+  {
+    "name": "Pixel Runner",
+    "icon": "https://via.placeholder.com/80?text=PR",
+    "author": "GameForge",
+    "description": "Endless runner game with retro pixel art and challenging levels.",
+    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app2.apk",
+    "previewImages": [
+      "https://via.placeholder.com/100x180?text=Game1",
+      "https://via.placeholder.com/100x180?text=Game2"
+    ],
     "category": "Games",
-    "version": "2.1.0",
-    "lastUpdate": "2026-03-19",
-    "downloads": 340
+    "version": "1.4.0",
+    "lastUpdate": "2026-03-18",
+    "downloads": 4320
+  },
+  {
+    "name": "Secure VPN",
+    "icon": "https://via.placeholder.com/80?text=VPN",
+    "author": "SecurTech",
+    "description": "Free, unlimited VPN with no logs and military-grade encryption.",
+    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app1.apk",
+    "previewImages": [
+      "https://via.placeholder.com/100x180?text=VPN1",
+      "https://via.placeholder.com/100x180?text=VPN2"
+    ],
+    "category": "Tools",
+    "version": "2.0.3",
+    "lastUpdate": "2026-03-10",
+    "downloads": 1870
+  },
+  {
+    "name": "Photo Editor Pro",
+    "icon": "https://via.placeholder.com/80?text=PE",
+    "author": "Creative Apps",
+    "description": "Advanced photo editing with filters, layers, and AI enhancement.",
+    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app2.apk",
+    "previewImages": [
+      "https://via.placeholder.com/100x180?text=Edit1",
+      "https://via.placeholder.com/100x180?text=Edit2",
+      "https://via.placeholder.com/100x180?text=Edit3"
+    ],
+    "category": "Photography",
+    "version": "4.1.2",
+    "lastUpdate": "2026-03-14",
+    "downloads": 980
+  },
+  {
+    "name": "Weather Live",
+    "icon": "https://via.placeholder.com/80?text=WX",
+    "author": "WeatherHub",
+    "description": "Real-time weather, radar maps, and severe weather alerts.",
+    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app1.apk",
+    "previewImages": [
+      "https://via.placeholder.com/100x180?text=Weather1"
+    ],
+    "category": "Lifestyle",
+    "version": "5.0.0",
+    "lastUpdate": "2026-03-20",
+    "downloads": 5600
+  }
+][
+  {
+    "name": "Flash Browser",
+    "icon": "https://via.placeholder.com/80?text=FB",
+    "author": "Bedusec Labs",
+    "description": "Lightweight, fast browser with ad-blocking and privacy features.",
+    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app1.apk",
+    "previewImages": [
+      "https://via.placeholder.com/100x180?text=SS1",
+      "https://via.placeholder.com/100x180?text=SS2",
+      "https://via.placeholder.com/100x180?text=SS3"
+    ],
+    "category": "Tools",
+    "version": "3.2.1",
+    "lastUpdate": "2026-03-15",
+    "downloads": 2150
+  },
+  {
+    "name": "Pixel Runner",
+    "icon": "https://via.placeholder.com/80?text=PR",
+    "author": "GameForge",
+    "description": "Endless runner game with retro pixel art and challenging levels.",
+    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app2.apk",
+    "previewImages": [
+      "https://via.placeholder.com/100x180?text=Game1",
+      "https://via.placeholder.com/100x180?text=Game2"
+    ],
+    "category": "Games",
+    "version": "1.4.0",
+    "lastUpdate": "2026-03-18",
+    "downloads": 4320
+  },
+  {
+    "name": "Secure VPN",
+    "icon": "https://via.placeholder.com/80?text=VPN",
+    "author": "SecurTech",
+    "description": "Free, unlimited VPN with no logs and military-grade encryption.",
+    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app1.apk",
+    "previewImages": [
+      "https://via.placeholder.com/100x180?text=VPN1",
+      "https://via.placeholder.com/100x180?text=VPN2"
+    ],
+    "category": "Tools",
+    "version": "2.0.3",
+    "lastUpdate": "2026-03-10",
+    "downloads": 1870
+  },
+  {
+    "name": "Photo Editor Pro",
+    "icon": "https://via.placeholder.com/80?text=PE",
+    "author": "Creative Apps",
+    "description": "Advanced photo editing with filters, layers, and AI enhancement.",
+    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app2.apk",
+    "previewImages": [
+      "https://via.placeholder.com/100x180?text=Edit1",
+      "https://via.placeholder.com/100x180?text=Edit2",
+      "https://via.placeholder.com/100x180?text=Edit3"
+    ],
+    "category": "Photography",
+    "version": "4.1.2",
+    "lastUpdate": "2026-03-14",
+    "downloads": 980
+  },
+  {
+    "name": "Weather Live",
+    "icon": "https://via.placeholder.com/80?text=WX",
+    "author": "WeatherHub",
+    "description": "Real-time weather, radar maps, and severe weather alerts.",
+    "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app1.apk",
+    "previewImages": [
+      "https://via.placeholder.com/100x180?text=Weather1"
+    ],
+    "category": "Lifestyle",
+    "version": "5.0.0",
+    "lastUpdate": "2026-03-20",
+    "downloads": 5600
   }
 ]
