@@ -15,7 +15,9 @@
     "version": "3.2.1",
     "lastUpdate": "2026-03-15",
     "downloads": 2150,
-    "rating": 4.5
+    "rating": 4.5,
+    "sponsored": false,
+    "recommended": true
   },
   {
     "name": "Pixel Runner",
@@ -33,7 +35,9 @@
     "version": "1.4.0",
     "lastUpdate": "2026-03-18",
     "downloads": 4320,
-    "rating": 4.7
+    "rating": 4.7,
+    "sponsored": false,
+    "recommended": true
   },
   {
     "name": "Secure VPN",
@@ -51,7 +55,9 @@
     "version": "2.0.3",
     "lastUpdate": "2026-03-10",
     "downloads": 1870,
-    "rating": 4.2
+    "rating": 4.2,
+    "sponsored": false,
+    "recommended": true
   },
   {
     "name": "Photo Editor Pro",
@@ -69,7 +75,9 @@
     "version": "4.1.2",
     "lastUpdate": "2026-03-14",
     "downloads": 980,
-    "rating": 4.3
+    "rating": 4.3,
+    "sponsored": false,
+    "recommended": true
   },
   {
     "name": "Weather Live",
@@ -87,7 +95,9 @@
     "version": "5.0.0",
     "lastUpdate": "2026-03-20",
     "downloads": 5600,
-    "rating": 4.8
+    "rating": 4.8,
+    "sponsored": false,
+    "recommended": true
   },
   {
     "name": "Kids Coloring Book",
@@ -105,6 +115,8 @@
     "version": "2.0",
     "lastUpdate": "2026-03-05",
     "downloads": 1200,
-    "rating": 4.6
+    "rating": 4.6,
+    "sponsored": false,
+    "recommended": true
   }
 ]
