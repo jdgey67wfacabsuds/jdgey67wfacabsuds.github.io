@@ -1,11 +1,16 @@
 [
   {
     "name": "Flash Browser",
-    "icon": "https://iciiwhite.github.io/code.png",
+    "icon": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=80&h=80&fit=crop",
     "author": "Bedusec Labs",
     "description": "Lightweight, fast browser with ad-blocking.",
     "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app1.apk",
-    "previewImages": [],
+    "previewImages": [
+      "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1526374965328-7f61d4dc18a5?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544256718-3bcf237f3974?w=300&h=500&fit=crop"
+    ],
     "category": "Tools",
     "version": "3.2.1",
     "lastUpdate": "2026-03-15",
@@ -14,11 +19,16 @@
   },
   {
     "name": "Pixel Runner",
-    "icon": "https://bedusec.github.io/favicon.png",
+    "icon": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=80&h=80&fit=crop",
     "author": "GameForge",
     "description": "Endless runner game.",
     "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app2.apk",
-    "previewImages": [],
+    "previewImages": [
+      "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1511882150382-421056c89033?w=300&h=500&fit=crop"
+    ],
     "category": "Games",
     "version": "1.4.0",
     "lastUpdate": "2026-03-18",
@@ -27,11 +37,16 @@
   },
   {
     "name": "Secure VPN",
-    "icon": "https://via.placeholder.com/80?text=VPN",
+    "icon": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=80&h=80&fit=crop",
     "author": "SecurTech",
     "description": "Free, unlimited VPN.",
     "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app1.apk",
-    "previewImages": [],
+    "previewImages": [
+      "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=300&h=500&fit=crop"
+    ],
     "category": "Tools",
     "version": "2.0.3",
     "lastUpdate": "2026-03-10",
@@ -40,11 +55,16 @@
   },
   {
     "name": "Photo Editor Pro",
-    "icon": "https://via.placeholder.com/80?text=PE",
+    "icon": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=80&h=80&fit=crop",
     "author": "Creative Apps",
     "description": "Advanced photo editing.",
     "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app2.apk",
-    "previewImages": [],
+    "previewImages": [
+      "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1526374965328-7f61d4dc18a5?w=300&h=500&fit=crop"
+    ],
     "category": "Photography",
     "version": "4.1.2",
     "lastUpdate": "2026-03-14",
@@ -53,11 +73,16 @@
   },
   {
     "name": "Weather Live",
-    "icon": "https://via.placeholder.com/80?text=WX",
+    "icon": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=80&h=80&fit=crop",
     "author": "WeatherHub",
     "description": "Real-time weather.",
     "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app1.apk",
-    "previewImages": [],
+    "previewImages": [
+      "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1530908295418-a12e326966ba?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1516912481808-3406841bd33c?w=300&h=500&fit=crop"
+    ],
     "category": "Lifestyle",
     "version": "5.0.0",
     "lastUpdate": "2026-03-20",
@@ -66,11 +91,16 @@
   },
   {
     "name": "Kids Coloring Book",
-    "icon": "https://via.placeholder.com/80?text=KC",
+    "icon": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=80&h=80&fit=crop",
     "author": "FunForKids",
     "description": "Coloring book for toddlers.",
     "downloadUrl": "https://jdgey67wfacabsuds.github.io/g/app2.apk",
-    "previewImages": [],
+    "previewImages": [
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1541427468627-89a96eeb8652?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=300&h=500&fit=crop"
+    ],
     "category": "Kids",
     "version": "2.0",
     "lastUpdate": "2026-03-05",
