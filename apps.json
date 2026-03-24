@@ -16,8 +16,13 @@
     "lastUpdate": "2026-03-15",
     "downloads": 2150,
     "rating": 4.5,
-    "sponsored": true,
-    "recommended": true
+    "sponsored": false,
+    "recommended": true,
+    "size": "75 MB",
+    "ageRating": "12+",
+    "reviews": "2.1K",
+    "containsAds": false,
+    "inAppPurchases": false
   },
   {
     "name": "Pixel Runner",
@@ -36,8 +41,13 @@
     "lastUpdate": "2026-03-18",
     "downloads": 4320,
     "rating": 4.7,
-    "sponsored": true,
-    "recommended": true
+    "sponsored": false,
+    "recommended": true,
+    "size": "88 MB",
+    "ageRating": "7+",
+    "reviews": "4.3K",
+    "containsAds": true,
+    "inAppPurchases": true
   },
   {
     "name": "Secure VPN",
@@ -57,7 +67,12 @@
     "downloads": 1870,
     "rating": 4.2,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "92 MB",
+    "ageRating": "12+",
+    "reviews": "1.8K",
+    "containsAds": false,
+    "inAppPurchases": false
   },
   {
     "name": "Photo Editor Pro",
@@ -77,7 +92,12 @@
     "downloads": 980,
     "rating": 4.3,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "125 MB",
+    "ageRating": "3+",
+    "reviews": "980",
+    "containsAds": false,
+    "inAppPurchases": true
   },
   {
     "name": "Weather Live",
@@ -97,7 +117,12 @@
     "downloads": 5600,
     "rating": 4.8,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "48 MB",
+    "ageRating": "3+",
+    "reviews": "5.6K",
+    "containsAds": true,
+    "inAppPurchases": false
   },
   {
     "name": "Kids Coloring Book",
@@ -117,7 +142,12 @@
     "downloads": 1200,
     "rating": 4.6,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "67 MB",
+    "ageRating": "3+",
+    "reviews": "1.2K",
+    "containsAds": false,
+    "inAppPurchases": true
   },
   {
     "name": "Music Player",
@@ -137,7 +167,12 @@
     "downloads": 3450,
     "rating": 4.4,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "56 MB",
+    "ageRating": "7+",
+    "reviews": "3.4K",
+    "containsAds": true,
+    "inAppPurchases": true
   },
   {
     "name": "Fitness Tracker",
@@ -157,7 +192,12 @@
     "downloads": 2780,
     "rating": 4.6,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "72 MB",
+    "ageRating": "12+",
+    "reviews": "2.7K",
+    "containsAds": false,
+    "inAppPurchases": true
   },
   {
     "name": "News Flash",
@@ -177,7 +217,12 @@
     "downloads": 4120,
     "rating": 4.3,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "84 MB",
+    "ageRating": "12+",
+    "reviews": "4.1K",
+    "containsAds": true,
+    "inAppPurchases": false
   },
   {
     "name": "Shopping Hub",
@@ -197,7 +242,12 @@
     "downloads": 3210,
     "rating": 4.2,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "94 MB",
+    "ageRating": "7+",
+    "reviews": "3.2K",
+    "containsAds": true,
+    "inAppPurchases": true
   },
   {
     "name": "Travel Guide",
@@ -217,7 +267,12 @@
     "downloads": 1890,
     "rating": 4.5,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "68 MB",
+    "ageRating": "3+",
+    "reviews": "1.8K",
+    "containsAds": false,
+    "inAppPurchases": true
   },
   {
     "name": "Finance Manager",
@@ -237,7 +292,12 @@
     "downloads": 2340,
     "rating": 4.4,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "52 MB",
+    "ageRating": "12+",
+    "reviews": "2.3K",
+    "containsAds": false,
+    "inAppPurchases": true
   },
   {
     "name": "Social Connect",
@@ -257,7 +317,12 @@
     "downloads": 5100,
     "rating": 4.6,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "118 MB",
+    "ageRating": "12+",
+    "reviews": "5.1K",
+    "containsAds": true,
+    "inAppPurchases": true
   },
   {
     "name": "Learning Kids",
@@ -277,7 +342,12 @@
     "downloads": 890,
     "rating": 4.7,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "102 MB",
+    "ageRating": "3+",
+    "reviews": "890",
+    "containsAds": false,
+    "inAppPurchases": true
   },
   {
     "name": "Note Taking",
@@ -297,7 +367,12 @@
     "downloads": 1560,
     "rating": 4.3,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "35 MB",
+    "ageRating": "3+",
+    "reviews": "1.5K",
+    "containsAds": false,
+    "inAppPurchases": false
   },
   {
     "name": "Video Editor",
@@ -317,7 +392,12 @@
     "downloads": 2010,
     "rating": 4.5,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "156 MB",
+    "ageRating": "12+",
+    "reviews": "2.0K",
+    "containsAds": false,
+    "inAppPurchases": true
   },
   {
     "name": "Puzzle Quest",
@@ -337,7 +417,12 @@
     "downloads": 1670,
     "rating": 4.4,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "62 MB",
+    "ageRating": "7+",
+    "reviews": "1.6K",
+    "containsAds": true,
+    "inAppPurchases": true
   },
   {
     "name": "Racing Fever",
@@ -357,7 +442,12 @@
     "downloads": 2890,
     "rating": 4.6,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "145 MB",
+    "ageRating": "12+",
+    "reviews": "2.8K",
+    "containsAds": true,
+    "inAppPurchases": true
   },
   {
     "name": "Strategy Empire",
@@ -377,7 +467,12 @@
     "downloads": 1240,
     "rating": 4.3,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "138 MB",
+    "ageRating": "12+",
+    "reviews": "1.2K",
+    "containsAds": true,
+    "inAppPurchases": true
   },
   {
     "name": "Sports Challenge",
@@ -397,7 +492,12 @@
     "downloads": 990,
     "rating": 4.2,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "112 MB",
+    "ageRating": "7+",
+    "reviews": "990",
+    "containsAds": true,
+    "inAppPurchases": true
   },
   {
     "name": "Card Master",
@@ -417,6 +517,11 @@
     "downloads": 780,
     "rating": 4.1,
     "sponsored": false,
-    "recommended": true
+    "recommended": true,
+    "size": "78 MB",
+    "ageRating": "12+",
+    "reviews": "780",
+    "containsAds": false,
+    "inAppPurchases": true
   }
 ]
