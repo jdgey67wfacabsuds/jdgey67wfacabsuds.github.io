@@ -1,1 +1,42 @@
-h
+[
+  {
+    "header": "New Release",
+    "title": "BeduSec OSINT Tool",
+    "description": "MORPHINT — AI‑powered intelligence gathering framework. Now available for Android.",
+    "buttonText": "Download",
+    "buttonLink": "app-preview.html?appIndex=0",
+    "image": "https://images.unsplash.com/photo-1555949258-eb67b1ded0c5?w=800&h=400&fit=crop"
+  },
+  {
+    "header": "Performance Boost",
+    "title": "Flash Browser 3.2",
+    "description": "Faster browsing with built‑in ad blocker. Updated engine for smoother experience.",
+    "buttonText": "Update Now",
+    "buttonLink": "app-preview.html?appIndex=0",
+    "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=800&h=400&fit=crop"
+  },
+  {
+    "header": "Privacy First",
+    "title": "Secure VPN – Free & Unlimited",
+    "description": "Protect your online activity with military‑grade encryption. No logs, no tracking.",
+    "buttonText": "Get Secure",
+    "buttonLink": "app-preview.html?appIndex=2",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&h=400&fit=crop"
+  },
+  {
+    "header": "Game Spotlight",
+    "title": "Pixel Runner",
+    "description": "Endless arcade fun with stunning pixel art. Beat your high score!",
+    "buttonText": "Play Now",
+    "buttonLink": "app-preview.html?appIndex=1",
+    "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=800&h=400&fit=crop"
+  },
+  {
+    "header": "Creative Tools",
+    "title": "Photo Editor Pro",
+    "description": "Advanced editing tools, filters, and AI enhancements for your photos.",
+    "buttonText": "Try It Free",
+    "buttonLink": "app-preview.html?appIndex=3",
+    "image": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=800&h=400&fit=crop"
+  }
+]
