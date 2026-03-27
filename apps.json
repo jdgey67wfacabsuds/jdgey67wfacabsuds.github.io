@@ -6,10 +6,11 @@
     "description": "myGit is a lightweight, high-performance GitHub client for Android. Built for developers who need to stay connected to their repositories without the bloat.",
     "downloadUrl": "https://mygit-bedusec.github.io/app.apk",
     "previewImages": [
-      "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=300&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=300&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1526374965328-7f61d4dc18a5?w=300&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1544256718-3bcf237f3974?w=300&h=500&fit=crop"
+      "https://jdgey67wfacabsuds.github.io/uploads/mgt.png",
+      "https://jdgey67wfacabsuds.github.io/uploads/mgt1.png",
+      "https://jdgey67wfacabsuds.github.io/uploads/mgt2.png",
+      "https://jdgey67wfacabsuds.github.io/uploads/mgt3.png",
+      "https://jdgey67wfacabsuds.github.io/uploads/mgt4.png"
     ],
     "category": "Tools",
     "version": "3.2.1",
