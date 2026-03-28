@@ -1,11 +1,11 @@
 [
   {
-    "header": "New Release",
-    "title": "BeduSec OSINT Tool",
-    "description": "MORPHINT — AI‑powered intelligence gathering framework. Now available for Android.",
+    "header": "New Features",
+    "title": "Xploit Hunter",
+    "description": "Xploit_Hunter.php - an advanced version of the Xploit Hunter php shell backdoor script with new advanced features.",
     "buttonText": "Download",
-    "buttonLink": "app-preview.html?appIndex=0",
-    "image": "https://images.unsplash.com/photo-1555949258-eb67b1ded0c5?w=800&h=400&fit=crop"
+    "buttonLink": "app-preview.html?appIndex=1",
+    "image": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/xploit.png"
   },
   {
     "header": "Performance Boost",
