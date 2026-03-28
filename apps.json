@@ -27,7 +27,7 @@
   },
   {
   "name": "Xploit Hunter",
-  "icon": "https://github.com/xploithunter1/Xploit_Hunter/blob/787b4a26d233f066dbd3cbffca41c0d2d591008d/xploit_hunter.png",
+  "icon": "https://raw.githubusercontent.com/xploithunter1/Xploit_Hunter/main/xploit_hunter.png",
   "author": "Xploit Hunter",
   "description": "Xploit Hunter is a portable security assessment toolkit for authorized penetration testers and security researchers. It includes web vulnerability scanning, a manual request builder, and a payload library for SQLi, XSS, and common web flaws. Use only on systems you own or have explicit permission to test. Unauthorized access is illegal and strictly prohibited. Requires Android 7.0+.",
   "downloadUrl": "https://raw.githubusercontent.com/xploithunter1/Xploit_Hunter/main/Xploit_Hunter.apk",
