@@ -24,5 +24,31 @@
     "reviews": "2.1K",
     "containsAds": false,
     "inAppPurchases": false
-  }
+  },
+  {
+  "name": "Option Trader",
+  "icon": "https://example.com",
+  "author": "BeduSec Labs",
+  "description": "No descriptions",
+  "downloadUrl": "https://example.com",
+  "previewImages": [
+    "https://example.com",
+    "https://example.com",
+    "https://example.com",
+    "https://example.com",
+    "https://example.com"
+  ],
+  "category": "Tools",
+  "version": "1.0",
+  "lastUpdate": "2026-03-17",
+  "downloads": 15,
+  "rating": 1.3,
+  "size": "1.7MB",
+  "ageRating": "18+",
+  "reviews": "6.8K",
+  "sponsored": true,
+  "recommended": true,
+  "containsAds": true,
+  "inAppPurchases": true
+}
 ]
