@@ -46,6 +46,30 @@
   "recommended": true,
   "containsAds": true,
   "inAppPurchases": false
+},
+  {
+  "name": "iBrowser",
+  "icon": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/ib.png",
+  "author": "Icii White",
+  "description": "iBrowser is built for speed and simplicity. It loads pages fast, uses minimal data, and keeps your browsing smooth. With a clean interface and essential privacy controls, it’s made for users who just want a reliable, no‑frills web experience. Perfect for daily browsing without the clutter.",
+  "downloadUrl": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/ib.apk",
+  "previewImages": [
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/ib1.png",
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/ib2.png",
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/ib3.png"
+  ],
+  "category": "Tools",
+  "version": "2.1",
+  "lastUpdate": "2026-03-29",
+  "downloads": 140,
+  "rating": 2.1,
+  "size": "1.1 MB",
+  "ageRating": "7+",
+  "reviews": "189",
+  "sponsored": false,
+  "recommended": true,
+  "containsAds": true,
+  "inAppPurchases": true
 }
 ]
 
