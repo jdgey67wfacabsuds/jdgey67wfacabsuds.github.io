@@ -70,6 +70,30 @@
   "recommended": true,
   "containsAds": true,
   "inAppPurchases": true
+},
+  {
+  "name": "AIDE",
+  "icon": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/aide.png",
+  "author": "Google Play",
+  "description": "AIDE is a lightweight integrated development environment that lets you code, compile, and run Android apps directly on your Android device. Built by Appfour, it supports Java, C++, and XML with features like code completion, real-time error checking, and Git integration. Ideal for learning Android development or making quick edits on the go. Fully compatible with Eclipse and Android Studio projects. No root required.",
+  "downloadUrl": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/aide.png",
+  "previewImages": [
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/aide1.png",
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/aide2.png",
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/aide3.png"
+  ],
+  "category": "Tools",
+  "version": "3.2.210316",
+  "lastUpdate": "2026-04-29",
+  "downloads": 479,
+  "rating": 4.8,
+  "size": "40 MB",
+  "ageRating": "7+",
+  "reviews": "Q0K",
+  "sponsored": true,
+  "recommended": true,
+  "containsAds": true,
+  "inAppPurchases": true
 }
 ]
 
