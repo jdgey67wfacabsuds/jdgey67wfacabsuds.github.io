@@ -7,14 +7,14 @@
     "buttonLink": "app-preview.html?appIndex=1",
     "image": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/xploit.png"
   },
-  {
-    "header": "Performance Boost",
-    "title": "Flash Browser 3.2",
-    "description": "Faster browsing with built‑in ad blocker. Updated engine for smoother experience.",
-    "buttonText": "Update Now",
-    "buttonLink": "app-preview.html?appIndex=0",
-    "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=800&h=400&fit=crop"
-  },
+{
+    "header": "Beta Now Available",
+    "title": "BeduSec Store Beta",
+    "description": "Try the latest features before anyone else. Help shape the future of the app with your feedback.",
+    "buttonText": "Download Beta",
+    "buttonLink": "https://github.com/gh-updates/bedusecstore/releases/download/bedusec-store-beta/app.apk",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=400&fit=crop"
+},
   {
     "header": "Privacy First",
     "title": "Secure VPN – Free & Unlimited",
