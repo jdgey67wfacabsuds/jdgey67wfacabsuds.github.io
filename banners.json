@@ -22,21 +22,17 @@
     "buttonText": "View Channel",
     "buttonLink": "https://whatsapp.com/channel/0029VbB8P523gvWdGbsrvH1W",
     "image": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/cyv.png"
-  },
-  {
-    "header": "Game Spotlight",
-    "title": "Pixel Runner",
-    "description": "Endless arcade fun with stunning pixel art. Beat your high score!",
-    "buttonText": "Play Now",
-    "buttonLink": "app-preview.html?appIndex=1",
-    "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=800&h=400&fit=crop"
-  },
-  {
-    "header": "Creative Tools",
-    "title": "Photo Editor Pro",
-    "description": "Advanced editing tools, filters, and AI enhancements for your photos.",
-    "buttonText": "Try It Free",
-    "buttonLink": "app-preview.html?appIndex=3",
-    "image": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=800&h=400&fit=crop"
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
