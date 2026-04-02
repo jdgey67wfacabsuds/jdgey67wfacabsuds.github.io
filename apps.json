@@ -120,6 +120,30 @@
   "recommended": true,
   "containsAds": true,
   "inAppPurchases": true
+},
+  {
+  "name": "MeTV",
+  "icon": "https://raw.githubusercontent.com/angeldevel200/Photos/refs/heads/main/20251229_182218.jpg",
+  "author": "angeldevel200",
+  "description": "MeTV is your all-in-one entertainment app where you can download videos directly, premium content free, and enjoy non-stop entertainment anytime, anywhere. With a simple and user-friendly interface, MeTV lets you explore trending content, discover new favorites, and stay entertained on the go.\n\n Key Features:\n• Easy-to-use interface\n• Discover trending and popular content\n• Regular updates with new features",
+  "downloadUrl": "https://github.com/angeldevel200/download/raw/refs/heads/main/metv_v1.0.1.apk",
+  "previewImages": [
+    "https://raw.githubusercontent.com/angeldevel200/Photos/refs/heads/main/Screenshot_20260402-144408.png",
+    "https://raw.githubusercontent.com/angeldevel200/Photos/refs/heads/main/Screenshot_20260402-144422.png",
+    "https://raw.githubusercontent.com/angeldevel200/Photos/refs/heads/main/Screenshot_20260402-144427.png"
+  ],
+  "category": "Entertainment",
+  "version": "1.0.1",
+  "lastUpdate": "02-04-2026",
+  "downloads": 0,
+  "rating": 0,
+  "sponsored": true,
+  "recommended": true,
+  "size": "6.32 MB",
+  "ageRating": "",
+  "reviews": "1K",
+  "containsAds": true,
+  "inAppPurchases": true
 }
 ]
 
