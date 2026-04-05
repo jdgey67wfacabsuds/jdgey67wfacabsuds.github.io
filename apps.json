@@ -144,6 +144,53 @@
   "reviews": "1K",
   "containsAds": true,
   "inAppPurchases": true
+},
+  {
+
+  "name": "Auracle",
+
+  "icon": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/au.png",
+
+  "author": "OllyVerse",
+
+  "description": "Find the right online tool for everything in seconds. Get access to the latest news in the tech industry.",
+
+  "downloadUrl": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/auracle.apk",
+
+  "previewImages": [
+
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/au1.png",
+
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/au2.png",
+
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/au3.png"
+
+  ],
+
+  "category": "Productivity",
+
+  "version": "1.0",
+
+  "lastUpdate": "2026-04-04",
+
+  "downloads": 391,
+
+  "rating": 3.5,
+
+  "size": "6 MB",
+
+  "ageRating": "3+",
+
+  "reviews": "4.3K",
+
+  "sponsored": true,
+
+  "recommended": true,
+
+  "containsAds": true,
+
+  "inAppPurchases": false
+
 }
 ]
 
