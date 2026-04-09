@@ -191,6 +191,32 @@
 
   "inAppPurchases": false
 
+},
+  {
+  "name": "Icii Code",
+  "icon": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/refs/heads/main/iciicode/icon.png",
+  "author": "Icii White",
+  "description": "Comprehensive Learning app for all developers, Programmers, Cyber Security, and Graphics Designers. Simple to use, and provides instant lessons.",
+  "downloadUrl": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/refs/heads/main/iciicode/1.jpeg",
+  "previewImages": [
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/refs/heads/main/iciicode/1.jpeg",
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/refs/heads/main/iciicode/2.jpeg",
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/refs/heads/main/iciicode/3.jpeg",
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/refs/heads/main/iciicode/4.jpeg",
+    "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/refs/heads/main/iciicode/5.jpeg"
+  ],
+  "category": "Education",
+  "version": "1.0",
+  "lastUpdate": "2026-04-10",
+  "downloads": 265,
+  "rating": 4.6,
+  "size": "7 MB",
+  "ageRating": "7+",
+  "reviews": "1K",
+  "sponsored": true,
+  "recommended": true,
+  "containsAds": true,
+  "inAppPurchases": true
 }
 ]
 
